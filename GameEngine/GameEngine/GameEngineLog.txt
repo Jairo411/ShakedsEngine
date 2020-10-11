@@ -1,0 +1,3 @@
+[INFO]: Creating Start Scene in: StartScene.cpp on line: 12
+[INFO]: Everything was created okay! :) in: CoreEngine.cpp on line: 55
+[INFO]: Creating Game Scene in: GameScene.cpp on line: 13
